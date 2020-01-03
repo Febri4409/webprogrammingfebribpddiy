@@ -1,0 +1,10 @@
+.badge {
+    margin-left: 3px;
+}
+
+.slideshow-container {
+    width: 700px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+  }
